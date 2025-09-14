@@ -68,7 +68,7 @@ src/index.css:
 
 @import "tailwindcss";
 
-Optional: @plugin "@tailwindcss/forms"; (install via npm i @tailwindcss/forms or remove this line)
+Optional: @plugin "@tailwindcss/forms";
 
 main.jsx: import "./index.css";
 
